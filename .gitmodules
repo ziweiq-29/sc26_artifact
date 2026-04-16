@@ -5,3 +5,6 @@
 	path = halo
 	url = git@github.com:ziweiq-29/halo.git
 	branch = master
+[submodule "midas"]
+	path = midas
+	url = https://github.com/ziweiq-29/MIDAS.git

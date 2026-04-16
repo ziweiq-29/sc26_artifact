@@ -14,3 +14,7 @@
 [submodule "DSSIM"]
 	path = DSSIM
 	url = https://github.com/ziweiq-29/DSSIM.git
+[submodule "compression_framework"]
+	path = compression_framework
+	url = https://github.com/ziweiq-29/compression_framework.git
+	branch = feature/qoi_rdf

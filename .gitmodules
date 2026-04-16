@@ -11,3 +11,6 @@
 [submodule "riken"]
 	path = riken
 	url = https://github.com/ziweiq-29/riken.git
+[submodule "DSSIM"]
+	path = DSSIM
+	url = https://github.com/ziweiq-29/DSSIM.git

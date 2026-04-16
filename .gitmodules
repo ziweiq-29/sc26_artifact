@@ -1,3 +1,6 @@
 [submodule "RDF"]
 	path = RDF
 	url = https://github.com/ziweiq-29/RDF.git
+[submodule "halo"]
+	path = halo
+	url = git@github.com:ziweiq-29/halo.git
